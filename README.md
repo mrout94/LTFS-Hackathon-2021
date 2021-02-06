@@ -42,5 +42,5 @@ Modelling techniques used:-
 A bayesian tuning method through Hyperopt library was employed on each model with their respective hyper-parameter space. F1-macro on a 5-fol CV was used as the measure for model performance.
 
 ## Result:-
-Accuracy: 0.86  
-F1 Macro: 0.45
+**Accuracy: 0.86  
+F1 Macro: 0.45**
